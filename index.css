@@ -1,0 +1,45 @@
+.comicContainer{
+    border:solid brown;
+    border-width:3px;
+    padding:.3em;
+    background-color: black;
+   
+    
+
+}
+.title{
+    text-align:center;
+    margin:2emm;
+    color: brown;
+}
+.higherRow, .lowerRow{
+    display: flex;
+    justify-content: space- evenly;
+height: 50vh;
+}
+.txter{
+
+    display: flex;
+    justify-content: space-evenly;
+}
+.say{
+    border: solid red;
+    text-align: center;
+    background-color: green;
+    color:solid Black;
+    height: 35px;
+    width: 30%;
+}
+.section{
+    border: solid gold;
+    width: 50%;
+    height:100%;
+}
+.fillerPic{
+    width: 100%;
+    height: 100%;
+}
+
+#videoPost{
+    border: solid green;
+}
